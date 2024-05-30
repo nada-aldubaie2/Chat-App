@@ -1,0 +1,12 @@
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\bin\Debug\Client Chat - Nada Aldubaie.exe.config
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\bin\Debug\Client Chat - Nada Aldubaie.exe
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\bin\Debug\Client Chat - Nada Aldubaie.pdb
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client Chat - Nada Aldubaie.csprojAssemblyReference.cache
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client_Chat___Nada_Aldubaie.Properties.Resources.resources
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client Chat - Nada Aldubaie.csproj.GenerateResource.cache
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client Chat - Nada Aldubaie.csproj.CoreCompileInputs.cache
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client Chat - Nada Aldubaie.exe
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client Chat - Nada Aldubaie.pdb
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client_Chat___Nada_Aldubaie.LoginForm.resources
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client_Chat___Nada_Aldubaie.MainForm.resources
+F:\Nada Aldubaie\Client Chat - Nada Aldubaie\Client Chat - Nada Aldubaie\obj\Debug\Client_Chat___Nada_Aldubaie.SendInPrivateForm.resources
